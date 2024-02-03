@@ -1,0 +1,75 @@
+
+List<Map<String, dynamic>> catagoryDB = [
+   {
+    'ytid': '',
+    'title': '',
+    'header_desc': '',
+    'image': 'https://raw.githubusercontent.com/golpoaudiobook/cdn/main/uploads/Career-Development.png',
+    'link' : 'https://golpobd.com/',
+    'list': [],
+  },
+ {
+    'ytid': '',
+    'title': '',
+    'header_desc': '',
+    'image': 'https://raw.githubusercontent.com/golpoaudiobook/cdn/main/uploads/Children.png',
+    'list': [],
+  },
+{
+      'ytid': '',
+    'title': '',
+    'header_desc': '',
+    'image': 'https://raw.githubusercontent.com/golpoaudiobook/cdn/main/uploads/Horror.png',
+    'list': [],
+  },
+{
+      'ytid': '',
+    'title': '',
+    'header_desc': '',
+    'image': 'https://raw.githubusercontent.com/golpoaudiobook/cdn/main/uploads/Motivation.png',
+    'list': [],
+  },
+{
+    'ytid': '',
+    'title': '',
+    'header_desc': '',
+    'image': 'https://raw.githubusercontent.com/golpoaudiobook/cdn/main/uploads/Novel.png',
+    'list': [],
+  },
+{
+    'ytid': '',
+    'title': '',
+    'header_desc': '',
+    'image': 'https://raw.githubusercontent.com/golpoaudiobook/cdn/main/uploads/Romance.png',
+    'list': [],
+    
+  },
+{
+   'ytid': '',
+    'title': '',
+    'header_desc': '',
+    'image': 'https://raw.githubusercontent.com/golpoaudiobook/cdn/main/uploads/Science.png',
+    'list': [],
+  },
+{
+   'ytid': '',
+    'title': '',
+    'header_desc': '',
+    'image': 'https://raw.githubusercontent.com/golpoaudiobook/cdn/main/uploads/Story.png',
+    'list': [],
+  },
+{
+    'ytid': '',
+    'title': '',
+    'header_desc': '',
+    'image': 'https://raw.githubusercontent.com/golpoaudiobook/cdn/main/uploads/Thriller.png',
+    'list': [],
+  },
+{
+    'ytid': '',
+    'title': '',
+    'header_desc': '',
+    'image': 'https://raw.githubusercontent.com/golpoaudiobook/cdn/main/uploads/Translated.png',
+    'list': [],
+  },
+];

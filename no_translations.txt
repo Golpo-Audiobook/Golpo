@@ -1,0 +1,92 @@
+{
+  "ar": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "de": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "el": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "es": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "fr": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "hi": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "ka": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "pl": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "pt": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "ru": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "tr": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "uk": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ],
+
+  "vi": [
+    "mostPlayed",
+    "topTenlist",
+    "newRelease",
+    "allCatagory"
+  ]
+}
