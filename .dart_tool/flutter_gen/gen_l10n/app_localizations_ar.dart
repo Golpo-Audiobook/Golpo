@@ -146,6 +146,9 @@ class AppLocalizationsAr extends AppLocalizations {
   String get noLikedPlaylists => 'لم تعجب بأي قوائم تشغيل بعد';
 
   @override
+  String get noPlayedPlaylists => 'You haven\'t played any Audiobooks yet';
+
+  @override
   String get notYTlist => 'هذا ليس معرف قائمة تشغيل YouTube';
 
   @override

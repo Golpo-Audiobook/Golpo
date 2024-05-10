@@ -146,6 +146,9 @@ class AppLocalizationsPt extends AppLocalizations {
   String get noLikedPlaylists => 'Você ainda não marcou nenhuma playlist como gostei';
 
   @override
+  String get noPlayedPlaylists => 'You haven\'t played any Audiobooks yet';
+
+  @override
   String get notYTlist => 'Isso não é um ID de playlist do YouTube';
 
   @override

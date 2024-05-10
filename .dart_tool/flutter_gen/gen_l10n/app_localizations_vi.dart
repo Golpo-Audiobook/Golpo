@@ -146,6 +146,9 @@ class AppLocalizationsVi extends AppLocalizations {
   String get noLikedPlaylists => 'Bạn chưa thích bất kỳ danh sách phát nào';
 
   @override
+  String get noPlayedPlaylists => 'You haven\'t played any Audiobooks yet';
+
+  @override
   String get notYTlist => 'Đây không phải là ID của danh sách phát YouTube';
 
   @override

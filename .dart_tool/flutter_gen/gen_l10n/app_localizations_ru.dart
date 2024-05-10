@@ -146,6 +146,9 @@ class AppLocalizationsRu extends AppLocalizations {
   String get noLikedPlaylists => 'Нет понравившихся плейлистов';
 
   @override
+  String get noPlayedPlaylists => 'You haven\'t played any Audiobooks yet';
+
+  @override
   String get notYTlist => 'Неверный ID плейлиста YouTube';
 
   @override

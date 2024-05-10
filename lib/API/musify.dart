@@ -67,6 +67,7 @@ Map activePlaylist = {
 final currentLikedSongsLength = ValueNotifier<int>(userLikedSongsList.length);
 final currentLikedPlaylistsLength =
     ValueNotifier<int>(userLikedPlaylists.length);
+final userRecentlyPlayedLength = ValueNotifier<int>(userLikedPlaylists.length);
 final currentOfflineSongsLength = ValueNotifier<int>(userOfflineSongs.length);
 
 final lyrics = ValueNotifier<String?>(null);

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.bbflight.background_downloader-merged_res-39:/drawable-ldpi-v4/ic_call_answer_video.png",
+        "source": "com.bbflight.background_downloader-core-1.12.0-8:/drawable-ldpi-v4/ic_call_answer_video.png"
+    },
+    {
+        "merged": "com.bbflight.background_downloader-merged_res-39:/drawable-ldpi-v4/ic_call_answer_low.png",
+        "source": "com.bbflight.background_downloader-core-1.12.0-8:/drawable-ldpi-v4/ic_call_answer_low.png"
+    },
+    {
+        "merged": "com.bbflight.background_downloader-merged_res-39:/drawable-ldpi-v4/ic_call_decline_low.png",
+        "source": "com.bbflight.background_downloader-core-1.12.0-8:/drawable-ldpi-v4/ic_call_decline_low.png"
+    },
+    {
+        "merged": "com.bbflight.background_downloader-merged_res-39:/drawable-ldpi-v4/ic_call_decline.png",
+        "source": "com.bbflight.background_downloader-core-1.12.0-8:/drawable-ldpi-v4/ic_call_decline.png"
+    },
+    {
+        "merged": "com.bbflight.background_downloader-merged_res-39:/drawable-ldpi-v4/ic_call_answer_video_low.png",
+        "source": "com.bbflight.background_downloader-core-1.12.0-8:/drawable-ldpi-v4/ic_call_answer_video_low.png"
+    },
+    {
+        "merged": "com.bbflight.background_downloader-merged_res-39:/drawable-ldpi-v4/ic_call_answer.png",
+        "source": "com.bbflight.background_downloader-core-1.12.0-8:/drawable-ldpi-v4/ic_call_answer.png"
+    }
+]

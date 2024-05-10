@@ -1,0 +1,1 @@
+ C:\\Users\\LN\\Desktop\\Golpo\\.dart_tool\\flutter_build\\991c8594064881e88cfa7b5e2fee6ecd\\native_assets.yaml: 

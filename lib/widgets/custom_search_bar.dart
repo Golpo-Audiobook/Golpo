@@ -8,7 +8,7 @@ class CustomSearchBar extends StatefulWidget {
     super.key,
     required this.onSubmitted,
     required this.controller,
-    required this.focusNode,
+    //required this.focusNode,
     required this.labelText,
     this.onChanged,
     this.loadingProgressNotifier,
@@ -16,7 +16,7 @@ class CustomSearchBar extends StatefulWidget {
   final Function(String) onSubmitted;
   final ValueNotifier<bool>? loadingProgressNotifier;
   final TextEditingController controller;
-  final FocusNode focusNode;
+  //final FocusNode focusNode;
   final String labelText;
   final Function(String)? onChanged;
 
@@ -32,7 +32,7 @@ class _CustomSearchBarState extends State<CustomSearchBar> {
       child: TextField(
         onSubmitted: (String value) {
           widget.onSubmitted(value);
-          widget.focusNode.unfocus();
+          //widget.focusNode.unfocus();
         },
         onChanged: widget.onChanged != null
             ? (value) async {
@@ -43,7 +43,7 @@ class _CustomSearchBarState extends State<CustomSearchBar> {
             : null,
         textInputAction: TextInputAction.search,
         controller: widget.controller,
-        focusNode: widget.focusNode,
+        //focusNode: widget.focusNode,
         decoration: InputDecoration(
           suffixIcon: widget.loadingProgressNotifier != null
               ? ValueListenableBuilder<bool>(
@@ -59,7 +59,7 @@ class _CustomSearchBarState extends State<CustomSearchBar> {
                         color: colorScheme.primary,
                         onPressed: () {
                           widget.onSubmitted(widget.controller.text);
-                          widget.focusNode.unfocus();
+                          //widget.focusNode.unfocus();
                         },
                       );
                     } else {
@@ -71,7 +71,7 @@ class _CustomSearchBarState extends State<CustomSearchBar> {
                         color: colorScheme.primary,
                         onPressed: () {
                           widget.onSubmitted(widget.controller.text);
-                          widget.focusNode.unfocus();
+                          //widget.focusNode.unfocus();
                         },
                       );
                     }
@@ -85,7 +85,7 @@ class _CustomSearchBarState extends State<CustomSearchBar> {
                   color: colorScheme.primary,
                   onPressed: () {
                     widget.onSubmitted(widget.controller.text);
-                    widget.focusNode.unfocus();
+                    //widget.focusNode.unfocus();
                   },
                 ),
           labelText: widget.labelText,

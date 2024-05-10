@@ -146,6 +146,9 @@ class AppLocalizationsHi extends AppLocalizations {
   String get noLikedPlaylists => 'आपको अभी तक कोई भी प्लेलिस्ट पसंद नहीं आई है';
 
   @override
+  String get noPlayedPlaylists => 'You haven\'t played any Audiobooks yet';
+
+  @override
   String get notYTlist => 'यह यूट्यूब प्लेलिस्ट आईडी नहीं है';
 
   @override

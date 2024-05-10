@@ -76,7 +76,7 @@ class _SearchPageState extends State<SearchPage> {
             CustomSearchBar(
               loadingProgressNotifier: _fetchingSongs,
               controller: _searchBar,
-              focusNode: _inputNode,
+              //focusNode: _inputNode,
               labelText: '${context.l10n!.search}...',
               onChanged: (value) async {
                 if (value.isNotEmpty) {

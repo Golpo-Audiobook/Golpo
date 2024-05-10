@@ -8,6 +8,7 @@ import 'package:golpo/screens/playlists_page.dart';
 import 'package:golpo/services/update_manager.dart';
 import 'package:golpo/style/app_themes.dart';
 import 'package:golpo/widgets/catagory_circle.dart';
+import 'package:golpo/widgets/custom_search_bar.dart';
 import 'package:golpo/widgets/marque.dart';
 import 'package:golpo/widgets/playlist_cube.dart';
 import 'package:golpo/widgets/playlist_slider.dart';
@@ -21,6 +22,18 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  final TextEditingController _searchBar = TextEditingController();
+
+  Future<void> search() async {
+    setState(() {});
+  }
+
+  @override
+  void dispose() {
+    _searchBar.dispose();
+    super.dispose();
+  }
+
   @override
   void initState() {
     super.initState();
@@ -40,8 +53,16 @@ class _HomePageState extends State<HomePage> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: <Widget>[
+            /* CustomSearchBar(
+              onSubmitted: (String value) {
+                search();
+              },
+              controller: _searchBar,
+              //focusNode: _inputNode,
+              labelText: '${context.l10n!.search}...',
+            ), */
             _buildPlaylistSlider(),
-            _buildSuggestedCatagory(),
+            //_buildSuggestedCatagory(),
             _buildTopTenplaylist(),
             _buildMostPlayed(),
             _buildSuggestedPlaylists(),

@@ -146,6 +146,9 @@ class AppLocalizationsKa extends AppLocalizations {
   String get noLikedPlaylists => 'ჯერჯერობით არ გაქვს მოწონებული ფლეილისთები';
 
   @override
+  String get noPlayedPlaylists => 'You haven\'t played any Audiobooks yet';
+
+  @override
   String get notYTlist => 'ეს არ არის YouTube ფლეილისთის აიდი';
 
   @override

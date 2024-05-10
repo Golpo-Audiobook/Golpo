@@ -146,6 +146,9 @@ class AppLocalizationsTr extends AppLocalizations {
   String get noLikedPlaylists => 'Henüz hiçbir çalma listesini beğenmediniz';
 
   @override
+  String get noPlayedPlaylists => 'You haven\'t played any Audiobooks yet';
+
+  @override
   String get notYTlist => 'Bu bir YouTube çalma listesi kimliği değil';
 
   @override

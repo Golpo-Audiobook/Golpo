@@ -146,6 +146,9 @@ class AppLocalizationsEl extends AppLocalizations {
   String get noLikedPlaylists => 'Δεν έχετε επισημάνει ακόμα λίστες αναπαραγωγής με την ένδειξη Μου αρέσει';
 
   @override
+  String get noPlayedPlaylists => 'You haven\'t played any Audiobooks yet';
+
+  @override
   String get notYTlist => 'Αυτό δεν είναι αναγνωριστικό λίστας αναπαραγωγής του YouTube';
 
   @override

@@ -13,25 +13,26 @@ class PlaylistsPage extends StatefulWidget {
 
 class _PlaylistsPageState extends State<PlaylistsPage> {
   final TextEditingController _searchBar = TextEditingController();
-  final FocusNode _inputNode = FocusNode();
+  //final FocusNode _inputNode = FocusNode();
   String _searchQuery = '';
-  bool _showOnlyAlbums = false;
+  //bool _showOnlyAlbums = false;
 
   Future<void> search() async {
     _searchQuery = _searchBar.text;
     setState(() {});
   }
 
+/*
   void toggleShowOnlyAlbums(bool value) {
     setState(() {
       _showOnlyAlbums = value;
     });
-  }
+  } */
 
   @override
   void dispose() {
     _searchBar.dispose();
-    _inputNode.dispose();
+    //_inputNode.dispose();
     super.dispose();
   }
 
@@ -50,17 +51,17 @@ class _PlaylistsPageState extends State<PlaylistsPage> {
               search();
             },
             controller: _searchBar,
-            focusNode: _inputNode,
+            //focusNode: _inputNode,
             labelText: '${context.l10n!.search}...',
           ),
-          Padding(
+          /* Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16),
             child: Row(
               mainAxisAlignment: MainAxisAlignment.end,
               children: <Widget>[
                 Switch(
-                  value: _showOnlyAlbums,
-                  onChanged: toggleShowOnlyAlbums,
+                  //value: _showOnlyAlbums,
+                  //onChanged: toggleShowOnlyAlbums,
                   thumbIcon: MaterialStateProperty.resolveWith<Icon?>(
                     (Set<MaterialState> states) {
                       if (states.contains(MaterialState.selected)) {
@@ -76,7 +77,7 @@ class _PlaylistsPageState extends State<PlaylistsPage> {
                 ),
               ],
             ),
-          ),
+          ),*/
           Expanded(
             child: FutureBuilder(
               future: _searchQuery.isEmpty
@@ -97,16 +98,19 @@ class _PlaylistsPageState extends State<PlaylistsPage> {
                 }
 
                 late List _playlists;
+                _playlists = (snapshot.data as List)
+                    .where((element) => element['isAlbum'] != true)
+                    .toList();
 
-                if (_showOnlyAlbums) {
+                /* if (_showOnlyAlbums) {
                   _playlists = (snapshot.data as List)
-                      .where((element) => element['isAlbum'] == true)
+                      .where((element) => element['isAlbum'] != true)
                       .toList();
                 } else {
                   _playlists = (snapshot.data as List)
                       .where((element) => element['isAlbum'] != true)
                       .toList();
-                }
+                } */
 
                 return GridView.builder(
                   gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(

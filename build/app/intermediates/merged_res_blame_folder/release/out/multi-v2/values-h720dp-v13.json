@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.golpo.audiobook.app-mergeReleaseResources-51:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\LN\\.gradle\\caches\\transforms-3\\0039d33aea0e48b661c8b349b2c68f3c\\transformed\\appcompat-1.5.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

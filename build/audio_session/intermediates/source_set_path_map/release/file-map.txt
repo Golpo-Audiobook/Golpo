@@ -1,0 +1,15 @@
+com.ryanheise.audio_session-jetified-annotation-experimental-1.1.0-0 C:\Users\LN\.gradle\caches\transforms-3\1bc128695806d8ca6e323a7f46bae6f6\transformed\jetified-annotation-experimental-1.1.0\res
+com.ryanheise.audio_session-jetified-media2-common-1.2.1-1 C:\Users\LN\.gradle\caches\transforms-3\307ad0d4b33fddc71b2cdff4276f9e99\transformed\jetified-media2-common-1.2.1\res
+com.ryanheise.audio_session-jetified-media2-session-1.2.1-2 C:\Users\LN\.gradle\caches\transforms-3\3f7a0c2c91039e7ea14a50ace4a11d78\transformed\jetified-media2-session-1.2.1\res
+com.ryanheise.audio_session-jetified-window-java-1.0.0-beta04-3 C:\Users\LN\.gradle\caches\transforms-3\6c82098bb0791267350f40a8a7c9a65e\transformed\jetified-window-java-1.0.0-beta04\res
+com.ryanheise.audio_session-core-1.6.0-4 C:\Users\LN\.gradle\caches\transforms-3\c983da1657b23210eece17ad9af0bd8c\transformed\core-1.6.0\res
+com.ryanheise.audio_session-media-1.4.1-5 C:\Users\LN\.gradle\caches\transforms-3\e6d9cd014a063ea87add6b9a7434d1f6\transformed\media-1.4.1\res
+com.ryanheise.audio_session-jetified-window-1.0.0-beta04-6 C:\Users\LN\.gradle\caches\transforms-3\fff7c4feb414e27fdeba19bc6af3e72d\transformed\jetified-window-1.0.0-beta04\res
+com.ryanheise.audio_session-main-7 C:\Users\LN\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.1.18\android\src\main\res
+com.ryanheise.audio_session-release-8 C:\Users\LN\AppData\Local\Pub\Cache\hosted\pub.dev\audio_session-0.1.18\android\src\release\res
+com.ryanheise.audio_session-pngs-9 C:\Users\LN\Desktop\Golpo\build\audio_session\generated\res\pngs\release
+com.ryanheise.audio_session-resValues-10 C:\Users\LN\Desktop\Golpo\build\audio_session\generated\res\resValues\release
+com.ryanheise.audio_session-rs-11 C:\Users\LN\Desktop\Golpo\build\audio_session\generated\res\rs\release
+com.ryanheise.audio_session-mergeReleaseResources-12 C:\Users\LN\Desktop\Golpo\build\audio_session\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.ryanheise.audio_session-mergeReleaseResources-13 C:\Users\LN\Desktop\Golpo\build\audio_session\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.ryanheise.audio_session-merged_res-14 C:\Users\LN\Desktop\Golpo\build\audio_session\intermediates\merged_res\release

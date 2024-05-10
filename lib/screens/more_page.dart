@@ -61,7 +61,7 @@ class MorePage extends StatelessWidget {
                   ),
                   onTap: () => {
                     launchURL(
-                      Uri.parse('https://golpoaudiobooks.com/premium'),
+                      Uri.parse('https://golpobd.com/premium'),
                     ),
                   },
                 ),

@@ -1,5 +1,6 @@
 {
   "ar": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -7,6 +8,7 @@
   ],
 
   "de": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -14,6 +16,7 @@
   ],
 
   "el": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -21,6 +24,7 @@
   ],
 
   "es": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -28,6 +32,7 @@
   ],
 
   "fr": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -35,6 +40,7 @@
   ],
 
   "hi": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -42,6 +48,7 @@
   ],
 
   "ka": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -49,6 +56,7 @@
   ],
 
   "pl": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -56,6 +64,7 @@
   ],
 
   "pt": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -63,6 +72,7 @@
   ],
 
   "ru": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -70,6 +80,7 @@
   ],
 
   "tr": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -77,6 +88,7 @@
   ],
 
   "uk": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",
@@ -84,6 +96,7 @@
   ],
 
   "vi": [
+    "noPlayedPlaylists",
     "mostPlayed",
     "topTenlist",
     "newRelease",

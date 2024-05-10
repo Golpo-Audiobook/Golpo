@@ -1,0 +1,16 @@
+com.ryanheise.audioservice.audio_service-jetified-annotation-experimental-1.1.0-0 C:\Users\LN\.gradle\caches\transforms-3\1bc128695806d8ca6e323a7f46bae6f6\transformed\jetified-annotation-experimental-1.1.0\res
+com.ryanheise.audioservice.audio_service-jetified-media2-common-1.2.1-1 C:\Users\LN\.gradle\caches\transforms-3\307ad0d4b33fddc71b2cdff4276f9e99\transformed\jetified-media2-common-1.2.1\res
+com.ryanheise.audioservice.audio_service-jetified-media2-session-1.2.1-2 C:\Users\LN\.gradle\caches\transforms-3\3f7a0c2c91039e7ea14a50ace4a11d78\transformed\jetified-media2-session-1.2.1\res
+com.ryanheise.audioservice.audio_service-jetified-window-java-1.0.0-beta04-3 C:\Users\LN\.gradle\caches\transforms-3\6c82098bb0791267350f40a8a7c9a65e\transformed\jetified-window-java-1.0.0-beta04\res
+com.ryanheise.audioservice.audio_service-media-1.6.0-4 C:\Users\LN\.gradle\caches\transforms-3\b04297a3a3c4a6ab2a959060fbb5614e\transformed\media-1.6.0\res
+com.ryanheise.audioservice.audio_service-core-1.6.0-5 C:\Users\LN\.gradle\caches\transforms-3\c983da1657b23210eece17ad9af0bd8c\transformed\core-1.6.0\res
+com.ryanheise.audioservice.audio_service-jetified-window-1.0.0-beta04-6 C:\Users\LN\.gradle\caches\transforms-3\fff7c4feb414e27fdeba19bc6af3e72d\transformed\jetified-window-1.0.0-beta04\res
+com.ryanheise.audioservice.audio_service-main-7 C:\Users\LN\AppData\Local\Pub\Cache\hosted\pub.dev\audio_service-0.18.13\android\src\main\res
+com.ryanheise.audioservice.audio_service-release-8 C:\Users\LN\AppData\Local\Pub\Cache\hosted\pub.dev\audio_service-0.18.13\android\src\release\res
+com.ryanheise.audioservice.audio_service-pngs-9 C:\Users\LN\Desktop\Golpo\build\audio_service\generated\res\pngs\release
+com.ryanheise.audioservice.audio_service-resValues-10 C:\Users\LN\Desktop\Golpo\build\audio_service\generated\res\resValues\release
+com.ryanheise.audioservice.audio_service-rs-11 C:\Users\LN\Desktop\Golpo\build\audio_service\generated\res\rs\release
+com.ryanheise.audioservice.audio_service-mergeReleaseResources-12 C:\Users\LN\Desktop\Golpo\build\audio_service\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.ryanheise.audioservice.audio_service-mergeReleaseResources-13 C:\Users\LN\Desktop\Golpo\build\audio_service\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.ryanheise.audioservice.audio_service-merged_res-14 C:\Users\LN\Desktop\Golpo\build\audio_service\intermediates\merged_res\release
+com.ryanheise.audioservice.audio_service-packaged_res-15 C:\Users\LN\Desktop\Golpo\build\audio_session\intermediates\packaged_res\release

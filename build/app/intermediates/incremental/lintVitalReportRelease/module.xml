@@ -1,0 +1,17 @@
+<lint-module
+    format="1"
+    dir="C:\Users\LN\Desktop\Golpo\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.4.2"
+    buildFolder="C:\Users\LN\Desktop\Golpo\build\app"
+    bootClassPath="C:\Users\LN\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\LN\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-34">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

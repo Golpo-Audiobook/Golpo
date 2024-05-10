@@ -399,6 +399,12 @@ abstract class AppLocalizations {
   /// **'You haven\'t liked any Audiobooks yet'**
   String get noLikedPlaylists;
 
+  /// No description provided for @noPlayedPlaylists.
+  ///
+  /// In en, this message translates to:
+  /// **'You haven\'t played any Audiobooks yet'**
+  String get noPlayedPlaylists;
+
   /// No description provided for @notYTlist.
   ///
   /// In en, this message translates to:
